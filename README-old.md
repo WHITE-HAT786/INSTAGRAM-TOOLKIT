@@ -121,12 +121,6 @@ d
 
 <br/>
 
-## WARNING
-	"Use tools at your own risk!!!"
-	"Use this Tool for personal use, not for sale!!!"
-	"Make sure your account is not in private to use this tool!!!"
-<br/>
-
 ## UPDATE
     1. Fix Error No Detect Followers Target
     2. Input Target/delay Manual (ITTYW)
