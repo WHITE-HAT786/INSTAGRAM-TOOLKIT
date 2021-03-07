@@ -111,8 +111,10 @@ PUBG-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A PUBG ACCOUNT OF YOUR VICT
 ## WARNING : 
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+ 
+* "Use tools at your own risk!!!"
+* "Use this Tool for personal use, not for sale!!!"
+* "Make sure your account is not in private to use this tool!!!"
 
-
-```
 
 
