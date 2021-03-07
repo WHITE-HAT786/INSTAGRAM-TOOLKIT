@@ -139,4 +139,16 @@ d
     9. New Feature: RMTLink [>] Repost Media Target by Link (Media)
 <br/>
 
+## WARNING : 
+
+        "Use tools at your own risk!!!"
+	"Use this Tool for personal use, not for sale!!!"
+	"Make sure your account is not in private to use this tool!!!"
+
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+
+
+```
+
+
 
