@@ -71,27 +71,25 @@ PUBG-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A PUBG ACCOUNT OF YOUR VICT
 
 * `apt-get upgrade -y`
 
-* `pkg install python -y`
+* `pkg install openssl-tool -y`
 
-* `pkg install python2 -y`
+* `pkg install wget -y`
 
 * `pkg install git -y`
 
-* `pkg install php`
+* `pkg install nodejs-lts`
 
-* `git clone https://github.com/WHITE-HAT786/PUBG-PHISING.git`
+* `pkg install nodejs`
+
+* `pkg install curl`
+
+* `git clone https://github.com/WHITE-HAT786/instagram-tools.git`
+
+* `cd instagram-tools`
 
 * `ls`
 
-* `cd PUBG-Mobile`
-
-* `ls`
-
-* `chmod +x *`
-
-* `bash setup`
-
-* `onlinehacking-pubg`
+* `node index.js`
 
 ## SCREEN SHOTS [Termux]
 
