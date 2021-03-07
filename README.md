@@ -12,7 +12,7 @@
 
 <p align="center">
 
-# ![Image](Instagram2016_white-(64px).png) Instagram NODE JS API V.1</a>
+# ![Image](Instagram2016_white-(64px).png) Instagram-Tools V.1</a>
 
 
 </p>
