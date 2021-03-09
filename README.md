@@ -92,7 +92,7 @@ PUBG-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A PUBG ACCOUNT OF YOUR VICT
 * `node index.js`
 
 ## SCREEN SHOTS [Termux]
-
+<a href="https://ibb.co/WG6ZBmd"><img src="https://i.ibb.co/HBV6G5M/IMG-20210309-073307.jpg" alt="IMG-20210309-073307" border="0"></a>
 <br>
 <p align="center">
 
