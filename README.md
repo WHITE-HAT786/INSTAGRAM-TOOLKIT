@@ -10,9 +10,9 @@
 <a href="https://github.com/WHITE-HAT786/instagram-tools.git"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
-<p align="center">
 
-# <a href="https://imgbb.com/"><img src="https://i.ibb.co/dQXXPLZ/images-2021-03-07-T131819-473.jpg" alt="images-2021-03-07-T131819-473" border="0"></a>
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/dQXXPLZ/images-2021-03-07-T131819-473.jpg" alt="images-2021-03-07-T131819-473" border="0"></a>
 
 
 </p>
