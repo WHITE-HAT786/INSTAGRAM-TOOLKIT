@@ -31,7 +31,7 @@
 
 ## ABOUT TOOL :
 
-INSTAGRAM-TOOLKIT IS TOOL WHICH HELP TO MAINTAIN YOUR INSTAGRAM ACCOUNT. WITH THIS TOOL YOU CAN DO TOO MANY THINGS. THE FEATURE OF THIS TOOL IS GIVE BELOW IN FEATURE SECTION. THIS TOOL RUN ON BOTH ROOT ANDROID DEVICE AND NONROOTED ANDROID DEVICES.
+Concept behind Tracking-Url is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites.Seeker Hosts a fake website which asks for Location Permission and if the target allows it.
 
 ## AVAILABLE ON :
 
@@ -43,24 +43,7 @@ INSTAGRAM-TOOLKIT IS TOOL WHICH HELP TO MAINTAIN YOUR INSTAGRAM ACCOUNT. WITH TH
 
 ## Features
 
-* Bot Like Timeline
-* Follow Followers Target by People
-* Follow Followers Target by Media
-* Follow Followers Target by Hastag
-* Follow Followers Target by Location
-* Follow Followers Target by People - with DM
-* Follow Followers Target by People - No Like
-* Follow Followers Target by People - No Comment & Like
-* Repost Media Target by People
-* Repost Media Target by Hashtag
-* Repost Media Target by Link
-* Comment & Like Followers Target by People
-* Comment & Like Followers Target by Hashtag
-* Bom Like Target's Post
-* Bom Comment Target's Post
-* Unfollow Not Followback
-* Unfollow All Following
-* Delete All Media
+*
 
 ----
 
