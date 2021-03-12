@@ -31,7 +31,7 @@
 
 ## ABOUT TOOL :
 
-Concept behind Tracking-Url is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites.Seeker Hosts a fake website which asks for Location Permission and if the target allows it.
+INSTAGRAM-TOOLKIT IS TOOL WHICH HELP TO MAINTAIN YOUR INSTAGRAM ACCOUNT. WITH THIS TOOL YOU CAN DO TOO MANY THINGS. THE FEATURE OF THIS TOOL IS GIVE BELOW IN FEATURE SECTION. THIS TOOL RUN ON BOTH ROOT ANDROID DEVICE AND NONROOTED ANDROID DEVICES.
 
 ## AVAILABLE ON :
 
