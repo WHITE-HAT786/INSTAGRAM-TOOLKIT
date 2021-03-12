@@ -35,7 +35,12 @@ INSTAGRAM-TOOLKIT IS TOOL WHICH HELP TO MAINTAIN YOUR INSTAGRAM ACCOUNT. WITH TH
 
 ## AVAILABLE ON :
 
+* Kali Linux
+* BlackArch Linux
+* Ubuntu
+* Kali Nethunter
 * Termux
+* Parrot OS
 
 ### TESTED ON :
 
